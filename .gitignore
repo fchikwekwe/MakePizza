@@ -1,6 +1,8 @@
 
-# Created by https://www.gitignore.io/api/django,python
-# Edit at https://www.gitignore.io/?templates=django,python
+# Created by https://www.gitignore.io/api/django,python,vscode
+# Edit at https://www.gitignore.io/?templates=django,python,vscode
+
+.vscode/
 
 ### Django ###
 *.log
@@ -190,4 +192,6 @@ dmypy.json
 
 # Pyre type checker
 
-# End of https://www.gitignore.io/api/django,python
+#!! ERROR: vscode is undefined. Use list command to see defined gitignore types !!#
+
+# End of https://www.gitignore.io/api/django,python,vscode
